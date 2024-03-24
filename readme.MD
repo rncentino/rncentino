@@ -6,4 +6,9 @@ I am Ronie Centino, currently pursuing my Bachelor of Science in Information Tec
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rncentino&label=Profile%20views&color=0e75b6&style=flat" alt="rncentino" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rncentino" alt="rncentino" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rncentino&label=Profile%20views&color=0e75b6&style=flat" alt="rncentino" /> </p>
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 📫 How to reach me **roniecentino@gmail.com**
