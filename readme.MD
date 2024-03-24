@@ -11,8 +11,11 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 
 <p align="left">
 <a href="https://twitter.com/nerogooods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nerogooods" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/chichawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chichawon" height="30" width="40" /></a>
+
 <a href="https://fb.com/rncentino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rncentino" height="30" width="40" /></a>
+
 <a href="https://instagram.com/superwonieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superwonieee" height="30" width="40" /></a>
 </p>
 
@@ -47,6 +50,4 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 
 ### Stats Overview : :cyclone:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&locale=en" alt="rncentino" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rncentino&show_icons=true&locale=en&layout=compact" alt="rncentino" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&locale=en" alt="rncentino" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rncentino&show_icons=true&locale=en&layout=compact" alt="rncentino" /></p>
