@@ -7,6 +7,4 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 
 - 🌱 I’m currently learning **Backend Development**
 
-### 📫 How to reach me:
-**roniecentino@gmail.com**
-
+[![GitHub license](https://img.shields.io/github/license/rncentino/rncentino)](https://github.com/rncentino/rncentino/blob/main/LICENSE)
