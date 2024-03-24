@@ -6,4 +6,4 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rncentino&label=Profile%20views&color=0e75b6&style=flat" alt="rncentino" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
-![Static Badge](https://img.shields.io/badge/roniecentino-green?link=facebook.com%2Frncentino)
+
