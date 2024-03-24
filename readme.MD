@@ -8,5 +8,5 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 - 🌱 I’m currently learning **Backend Development**
 
 ### 📫 How to reach me:
-<a href="mailto: roniecentino@gmail.com">
+**roniecentino@gmail.com**
 
