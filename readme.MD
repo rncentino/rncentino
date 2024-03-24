@@ -10,13 +10,13 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/nerogooods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nerogooods" height="30" width="40" /><strong>NERO</strong></a>
+<a href="https://twitter.com/nerogooods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nerogooods" height="30" width="40" /></a> <strong>NERO</strong>
 
-<a href="https://linkedin.com/in/chichawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chichawon" height="30" width="40" /><strong>chichawon</strong></a>
+<a href="https://linkedin.com/in/chichawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chichawon" height="30" width="40" /></a> <strong>chichawon</strong>
 
-<a href="https://fb.com/rncentino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rncentino" height="30" width="40" /><strong>Ronie Centino</strong></a>
+<a href="https://fb.com/rncentino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rncentino" height="30" width="40" /></a> <strong>Ronie Centino</strong>
 
-<a href="https://instagram.com/superwonieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superwonieee" height="30" width="40" /><i>@superwonieee</i></a>
+<a href="https://instagram.com/superwonieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superwonieee" height="30" width="40" /></a> <i>@superwonieee</i>
 </p>
 
 ### Current Status Quo:
@@ -50,4 +50,4 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 
 ### Stats Overview : :cyclone:
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&locale=en" alt="rncentino" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rncentino&show_icons=true&locale=en&layout=compact" alt="rncentino" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&locale=en" alt="rncentino" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rncentino&show_icons=true&locale=en&layout=compact" alt="rncentino" /></p>
