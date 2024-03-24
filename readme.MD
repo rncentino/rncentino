@@ -35,3 +35,8 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 <img
   src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
 />
+
+
+### GitHub Highlights: :blossom:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&locale=en" alt="rncentino" /></p>
