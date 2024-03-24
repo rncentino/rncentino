@@ -7,3 +7,4 @@ I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science i
 
 - 🌱 I’m currently learning **Backend Development**
 
+https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fnerogooods&label=Nero
