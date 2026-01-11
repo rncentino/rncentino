@@ -1,17 +1,19 @@
-<h1>👋 Kumusta! Nice to see you here</h1>
+<h1>Hello, I’m Ronie Centino 👋</h1>
 
 <p>
-Ako si <strong>Ronie Centino</strong> — BS Information Technology graduate 🇵🇭<br/>
-Tech tinkerer by day, bug hunter by night ☕🐞
+<strong>Bachelor of Science in Information Technology (BSIT) Graduate</strong><br/>
+Aspiring Backend / Web Developer | Systems & Administrative IT Support
 </p>
 
 <p>
-Mahilig ako sa projects na <em>may silbi</em>: systems, automation, at solutions na
-“pwede na, pero pwedeng mas ayusin pa.”
+I am a BSIT graduate with hands-on experience in system development, 
+administrative IT support, and database-driven applications.
+I have worked on both academic and government-related projects, with
+a strong focus on documentation, records management, and practical system solutions.
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&width=600&lines=Hi%2C+I'm+Ronie+Centino;BSIT+Graduate+%7C+Future+Backend+Dev;WinForms+%2B+Fingerprint+Systems;Web+Dev+in+progress+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&width=650&lines=Hi%2C+I'm+Ronie+Centino;BSIT+Graduate;Backend+and+Web+Development+Focus;Systems+and+Administrative+IT+Support" />
 </a>
 
 <p align="left">
@@ -20,18 +22,41 @@ Mahilig ako sa projects na <em>may silbi</em>: systems, automation, at solutions
 
 ---
 
-### 🧠 About Me (Quick Scan)
+### 🎓 Education & Eligibility
 
-- 🎓 **BS Information Technology** graduate
-- 🇵🇭 **Civil Service Professional** Eligible
-- 🧩 Currently building a **Fingerprint-Based Attendance System**  
-- 🖥️ Comfortable with **C# WinForms + SQL Server**
-- 🌱 Slowly but surely diving into **Backend Development**
-- 🧭 Career goal: **Web / Backend Developer** (full-stack soon, promise 😄)
+- 🎓 **Bachelor of Science in Information Technology**  
+  Northern Samar Colleges, Inc. (2021–2025)
+- 🏛 **Civil Service Professional Eligible** (March 2024)
 
 ---
 
-### 🛠 Tech Stack (Pinoy Budget, Real-World Edition)
+### 💼 Experience
+
+**Information Technology Intern**  
+*Department of Agrarian Reform – Provincial Office, Northern Samar*  
+(June 2024 – October 2024)
+
+- Assisted in administrative and clerical IT support
+- Co-developed a **web-based records and geographic data management system**
+- Supported system documentation, testing, and basic troubleshooting
+- Organized digital and physical records for office operations
+- Assisted in data encoding, validation, and report preparation
+
+---
+
+### 🧠 Academic Projects
+
+**Fingerprint-Based Attendance System (Capstone Project)**
+
+- Developed a **Windows Forms application** for attendance tracking
+- Integrated **DigitalPersona fingerprint device**
+- Designed workflows and database structure
+- Conducted testing, debugging, and report generation
+- Ensured data accuracy and proper records management
+
+---
+
+### 🛠 Technical Skills
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -47,33 +72,45 @@ Mahilig ako sa projects na <em>may silbi</em>: systems, automation, at solutions
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Let’s Connect (Hindi Kagat 😄)
+### 📌 Core Strengths
+
+- Administrative and technical IT support  
+- System documentation and report writing  
+- Records management and data organization  
+- Database encoding and validation  
+- Coordination with offices and stakeholders  
+- Strong attention to detail and accuracy  
+
+---
+
+### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://fb.com/eychron" target="_blank">
+  <a href="https://fb.com/rncentino" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
   </a>
   <strong>Ronie Centino</strong>
 </p>
 
 <p align="left">
-  <a href="https://instagram.com/itsnxro._" target="_blank">
+  <a href="https://instagram.com/superwonieee" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
-  <i>@itsnxro._</i>
+  <i>@superwonieee</i>
 </p>
 
 ---
 
-<blockquote>
-💬 <em>“Still learning. Still building. Still debugging.  
-Pero tuloy lang.”</em>
-</blockquote>
+### 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&theme=default" />
+</p>
