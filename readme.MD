@@ -11,7 +11,7 @@ Mahilig ako sa projects na <em>may silbi</em>: systems, automation, at solutions
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&width=600&lines=Hi%2C+I'm+Ronie+Centino;BSIT+Student+%7C+Future+Backend+Dev;WinForms+%2B+Fingerprint+Systems;Web+Dev+in+progress+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&width=600&lines=Hi%2C+I'm+Ronie+Centino;BSIT+Graduate+%7C+Future+Backend+Dev;WinForms+%2B+Fingerprint+Systems;Web+Dev+in+progress+%F0%9F%9A%80" />
 </a>
 
 <p align="left">
@@ -58,17 +58,17 @@ Mahilig ako sa projects na <em>may silbi</em>: systems, automation, at solutions
 ### 🤝 Let’s Connect (Hindi Kagat 😄)
 
 <p align="left">
-  <a href="https://fb.com/rncentino" target="_blank">
+  <a href="https://fb.com/eychron" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
   </a>
   <strong>Ronie Centino</strong>
 </p>
 
 <p align="left">
-  <a href="https://instagram.com/superwonieee" target="_blank">
+  <a href="https://instagram.com/itsnxro._" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
-  <i>@superwonieee</i>
+  <i>@itsnxro._</i>
 </p>
 
 ---
