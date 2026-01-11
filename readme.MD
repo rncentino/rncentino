@@ -1,49 +1,86 @@
-<h1>Hello, Nice to see you 👋</h1>
+<h1>👋 Kumusta! Nice to see you here</h1>
 
-I am <strong>Ronie Centino</strong>, currently pursuing my Bachelor of Science in Information Technology. I am a tech enthusiast. I am always interested on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F707B2&random=false&width=435&lines=I'm+Ronie+Centino%2C+23yrs+old;Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rncentino&label=Profile%20views&color=0e75b6&style=flat" alt="rncentino" /> </p>
-
-- 🌱 I’m currently learning **Backend Development**
-
-### Connect with me:
-
-<p align="left">
-<a href="https://fb.com/rncentino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rncentino" height="30" width="40" /></a> <strong>Ronie Centino</strong> 
-
-<a href="https://instagram.com/superwonieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superwonieee" height="30" width="40" /></a> <i>@superwonieee</i>
+<p>
+Ako si <strong>Ronie Centino</strong> — BS Information Technology student 🇵🇭<br/>
+Tech tinkerer by day, bug hunter by night ☕🐞
 </p>
 
-### Current Status Quo:
+<p>
+Mahilig ako sa projects na <em>may silbi</em>: systems, automation, at solutions na
+“pwede na, pero pwedeng mas ayusin pa.”
+</p>
 
-- 💼 I’m pursuing a <strong>Bachelor of Science in Information Technology</strong>.
-- 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> Industry.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&width=600&lines=Hi%2C+I'm+Ronie+Centino;BSIT+Student+%7C+Future+Backend+Dev;WinForms+%2B+Fingerprint+Systems;Web+Dev+in+progress+%F0%9F%9A%80" />
+</a>
 
-### Tools I work upon : 🛠
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rncentino&label=Profile%20views&color=0e75b6&style=flat" alt="rncentino" />
+</p>
 
-<img
-  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-/>
-<img
-  src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"
-/>
-<img
-  src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"
-/>
-<img
-  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-/>
+---
 
-### Stats Overview : :cyclone:
+### 🧠 About Me (Quick Scan)
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&locale=en" alt="rncentino" /> </p>
+- 🎓 **BS Information Technology** student  
+- 🧩 Currently building a **Fingerprint-Based Attendance System**  
+- 🖥️ Comfortable with **C# WinForms + SQL Server**
+- 🌱 Slowly but surely diving into **Backend Development**
+- 🧭 Career goal: **Web / Backend Developer** (full-stack soon, promise 😄)
+
+---
+
+### 🛠 Tech Stack (Pinoy Budget, Real-World Edition)
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
+
+---
+
+### 🤝 Let’s Connect (Hindi Kagat 😄)
+
+<p align="left">
+  <a href="https://fb.com/rncentino" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+  <strong>Ronie Centino</strong>
+</p>
+
+<p align="left">
+  <a href="https://instagram.com/superwonieee" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <i>@superwonieee</i>
+</p>
+
+---
+
+### 📊 GitHub Stats (Numbers Don’t Lie… Most of the Time)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<blockquote>
+💬 <em>“Still learning. Still building. Still debugging.  
+Pero tuloy lang.”</em>
+</blockquote>
