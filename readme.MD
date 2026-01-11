@@ -1,7 +1,7 @@
 <h1>👋 Kumusta! Nice to see you here</h1>
 
 <p>
-Ako si <strong>Ronie Centino</strong> — BS Information Technology student 🇵🇭<br/>
+Ako si <strong>Ronie Centino</strong> — BS Information Technology graduate 🇵🇭<br/>
 Tech tinkerer by day, bug hunter by night ☕🐞
 </p>
 
@@ -22,7 +22,8 @@ Mahilig ako sa projects na <em>may silbi</em>: systems, automation, at solutions
 
 ### 🧠 About Me (Quick Scan)
 
-- 🎓 **BS Information Technology** student  
+- 🎓 **BS Information Technology** graduate
+- 🇵🇭 **Civil Service Professional** Eligible
 - 🧩 Currently building a **Fingerprint-Based Attendance System**  
 - 🖥️ Comfortable with **C# WinForms + SQL Server**
 - 🌱 Slowly but surely diving into **Backend Development**
@@ -68,14 +69,6 @@ Mahilig ako sa projects na <em>may silbi</em>: systems, automation, at solutions
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
   <i>@superwonieee</i>
-</p>
-
----
-
-### 📊 GitHub Stats (Numbers Don’t Lie… Most of the Time)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
