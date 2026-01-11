@@ -94,23 +94,16 @@ a strong focus on documentation, records management, and practical system soluti
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://fb.com/rncentino" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
-  <strong>Ronie Centino</strong>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" height="20" width="20"/>
+  <a href="mailto:roniecentino@gmail.com">roniecentino@gmail.com</a>
 </p>
 
 <p align="left">
-  <a href="https://instagram.com/superwonieee" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <i>@superwonieee</i>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="20" width="20"/>
+  <a href="https://fb.com/eychron" target="_blank">Ronie Centino</a>
 </p>
 
----
-
-### 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rncentino&show_icons=true&theme=default" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="20"/>
+  <a href="https://instagram.com/itsnxro._" target="_blank">@itsnxro._</a>
 </p>
