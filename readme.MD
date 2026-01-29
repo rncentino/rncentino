@@ -90,7 +90,7 @@ a strong focus on documentation, records management, and practical system soluti
 ### 🤝 Connect With Me
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" height="20" width="20"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="20" width="20"/>
   <a href="mailto:roniecentino@gmail.com">roniecentino@gmail.com</a>
 </p>
 
