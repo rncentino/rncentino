@@ -12,10 +12,6 @@ I have worked on both academic and government-related projects, with
 a strong focus on documentation, records management, and practical system solutions.
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&width=650&lines=Hi%2C+I'm+Ronie+Centino;BSIT+Graduate;Backend+and+Web+Development+Focus;Systems+and+Administrative+IT+Support" />
-</a>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rncentino&label=Profile%20views&color=0e75b6&style=flat" alt="rncentino" />
 </p>
